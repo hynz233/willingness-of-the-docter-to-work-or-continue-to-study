@@ -1,1 +1,4 @@
 # willingness-of-the-docter-to-work-or-continue-to-study
+After seeing this data, I recalled words that have been told by many people that after graduation, Ph.D. students are more likely to continue being training and educating. In order to see if this is true, I decided to compare the data between students that continue to be trained and students that started to work. And the sample came from Johns Hopkins University. Using the clustering analysis, the result shows that students from different sector actually has a different choice.<br>
+[Jonhs Hopkins career type among graduation](https://provost.jhu.edu/education/graduate-and-professional-education/cngls/)<br>
+[Analysis Excel and data visualizagion](https://github.com/hynz233/willingness-of-the-docter-to-work-or-continue-to-study/blob/master/Final%20data%20and%20analysis.xlsx)
